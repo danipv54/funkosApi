@@ -5,6 +5,13 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3200; // <== You can change the port
 
 server.use(middlewares);
+server.use(jsonServer.rewriter({
+    '/products/*': '/$1',
+}))
 server.use(router);
 
-server.listen(port);
+
+server.listen(port, () => {
+    console.log('JSON Server is running')
+})
+module.exports = server
