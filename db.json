@@ -1,894 +1,974 @@
-{
+ 
+  {
     "products": [
-        {
-            "description": "Just when you thought the merc with the mouth couldn't get any cooler, I stride into the picture with my swords drawn. Bring me home with this Pop! Deadpool (Two Swords).",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076865/journal/deadpool_with_two_swords_thurgr.png"
-            ],
-            "inStock": 7,
-            "price": 12,
-            "sizes": "3.75-inches",
-            "slug": "deadpool_with_two_swords",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "deadpool",
-            "title": "DEADPOOL WITH TWO SWORDS",
-            "company": "MARVEL"
-        },
-        {
-            "description": "The king of Wakanda leaps into action to help save his people, and the world, as Black Panther. Bring Pop! Black Panther into your Marvel collection.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076802/journal/black_panther1_bu3aoo.png",
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077238/journal/black_panther2_qwfplf.png"
-            ],
-            "inStock": 1,
-            "price": 12,
-            "sizes": "2.25-inches to 3-inches",
-            "slug": "black_panther",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "black panther",
-            "title": "BLACK PANTHER",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Celebrate the heroic beginnings of one of the Avengers’ mightiest heroes with the exclusive Pop! Captain America with Prototype Shield. Wearing his 1940s uniform from the United States Army, Steve Rogers holds an early version of his iconic shield. Who will this hero team up with in your Marvel collection?",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076866/journal/captain_america_with_prototype_shield_marvel_angx8c.png"
-            ],
-            "inStock": 10,
-            "price": 15,
-            "sizes": "4-inches",
-            "slug": "captain_america_with_prototype_shield_marvel",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "captain america",
-            "title": "CAPTAIN AMERICA WITH PROTOTYPE SHIELD",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Monstrous villains mean serious armor upgrades to tackle the task. Complete your Marvel Mech Strike Monster Hunter series by collecting Pop!",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674079282/journal/venom_monster_zv6f3d.png"
-            ],
-            "inStock": 50,
-            "price": 12,
-            "sizes": "4-inches",
-            "slug": "venom_monster",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "venom",
-            "title": "VENOM",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Celebrate 80 years of Marvel with this Pop! of first appearance Spider-Man. He's leaping at the opportunity to join your Marvel Comics collection.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076511/journal/spider_man_80_sadlv5.png"
-            ],
-            "inStock": 50,
-            "price": 12,
-            "sizes": "3.75-inches",
-            "slug": "spider_man_80",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "spiderman",
-            "title": "SPIDER-MAN-80th",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Inspired by the worlds most unlimited resource, the Let the Sun Shine Tee highlights our fully integrated home solar and storage system. Designed for fit, comfort and style, the tee features a sunset graphic along with our Tesla wordmark on the front and our signature T logo printed above Solar Roof on the back. Made from 100% Peruvian cotton.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076611/journal/superman_action_comics_vug79y.png"
-            ],
-            "inStock": 50,
-            "price": 12,
-            "sizes": "3.75-inches",
-            "slug": "superman_action_comics",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "superman",
-            "title": " SUPERMAN - ACTION COMICS #1",
-            "company": "DC"
-        },
-        {
-            "description": "I“Are you ready now to witness a power not seen for thousands of years?” Jumbo Pop! Vegeta is ready to fight for his spot in your Dragon Ball Z collection.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076932/journal/vegeta_dragon_ball_z-10_gfkjvk.png"
-            ],
-            "inStock": 60,
-            "price": 40,
-            "sizes": "10-inches",
-            "slug": "vegeta_dragon_ball_z-10",
-            "type": "Anime",
-            "category": "anime",
-            "license": "vegeta",
-            "title": "VEGETA - DRAGON BALL Z",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Naruto is charging straight into your Naruto Shippuden set. Own your own Pop! Vinyl of Naruto in his iconic running stance. Collectible stands.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076402/journal/naruto_uzumaki_naruto_shippuden_kddekr.png"
-            ],
-            "inStock": 6,
-            "price": 12,
-            "sizes": "3.5-inches",
-            "slug": "naruto_uzumaki_naruto_shippuden",
-            "type": "Anime",
-            "category": "anime",
-            "license": "naruto",
-            "title": "NARUTO UZUMAKI - SHIPPUDEN",
-            "company": "NARUTO SHIPPUDEN"
-        },
-        {
-            "description": "As an infant, Goku was sent to destroy Earth but ended up becoming one of the planet's greatest heroes after the young Saiyan was rid of his senselessly destructive nature. Your Dragon Ball Z collection wouldn't be the same without it's warrior protagonist Goku, in his first appearance in Super Saiyan form, as a Pop! to protect it from attackers.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076597/journal/super_saiyan_goku_dragon_ball_z_wtgmqv.png"
-            ],
-            "inStock": 50,
-            "price": 12,
-            "sizes": "5-inches",
-            "slug": "super_saiyan_goku_dragon_ball_z",
-            "type": "Anime",
-            "category": "anime",
-            "license": "goku",
-            "title": "SUPER SAIYAN GOKU",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Zamasu the North Kai of Universe 10, as well as the Supreme Kai apprentice from Universe 10, and is also the main antagonist of the Future Trunks Saga in Dragon Ball Super. Due to the abuse of time travel and taking up of new forms, several different incarnations of Zamasu exist.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076772/journal/zamasu_ir3xew.png"
-            ],
-            "inStock": 6,
-            "price": 15,
-            "sizes": "4-inches",
-            "slug": "zamasu",
-            "type": "Anime",
-            "category": "anime",
-            "license": "zamasu",
-            "title": "ZAMASU",
-            "company": "DRAGON BALL SUPER"
-        },
-        {
-            "description": "Jiren, also known as Jiren The Gray is the most powerful member of the Pride Troopers. He served as the main fighting antagonist in the Universe Survival Saga and as a major contestant in the Tournament of Power. An extraordinary powerful being Jiren is considered to be one of the strongest mortals in all of the multiverse.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077613/journal/jiren_base_uuu6gt.png"
-            ],
-            "inStock": 90,
-            "price": 150,
-            "sizes": "10-inches",
-            "slug": "jiren_base",
-            "type": "Anime",
-            "category": "anime",
-            "license": "jiren",
-            "title": "JIREN",
-            "company": "DRAGON BALL SUPER"
-        },
-        {
-            "description": "Freezer is the main antagonist of the Dragon Ball series. He is the leader of his own imperialist army and emperor of parts of Universe 7. A cruel tyrant, he is feared throughout the universe for his ruthlessness and immense power. He is the descendant of Chilled, the youngest son of King Cold, the younger brother of Cooler, and the father of Kuriza.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077579/journal/mecha_frieza_dhdwgg.png"
-            ],
-            "inStock": 20,
-            "price": 100,
-            "sizes": "5-inches",
-            "slug": "mecha_frieza",
-            "type": "Anime",
-            "category": "anime",
-            "license": "freezer",
-            "title": "MECHA FREEZER",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Future Trunks is a Saiyan-Earthling hybrid and the son of Vegeta and Bulma, both from an alternate future. By the time Present Trunks was born, the timeline had been drastically altered by Future Trunks' and Cell's trips to the past.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076621/journal/super_saiyan_future_trunks_zokmkz.png"
-            ],
-            "inStock": 20,
-            "price": 100,
-            "sizes": "5-inches",
-            "slug": "super_saiyan_future_trunks",
-            "type": "Anime",
-            "category": "anime",
-            "license": "trunks",
-            "title": "SUPER SAIYAN FUTURE TRUNKS",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Son Gohan is a half-breed Saiyan and one of the most prominent characters in the Dragon Ball series. He is the elder son of the series' primary protagonist Goku and his wife Chi-Chi, the eldest nephew of Raditz, the older brother of Goten, the husband of Videl and father to Pan.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077306/journal/ultimate_gohan_atuasw.png"
-            ],
-            "inStock": 2,
-            "price": 120,
-            "sizes": "4-inches",
-            "slug": "ultimate_gohan",
-            "type": "Anime",
-            "category": "anime",
-            "license": "gohan",
-            "title": "ULTIMATE GOHAN",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Bulma is a brilliant scientist and the second daughter of Capsule Corporation's founder Dr. Brief and his wife Bikini, the younger sister of Tights, and is Goku's first friend. She used to be the girlfriend of Yamcha but moved on (while remaining friends with him) and, eventually, became the wife of Vegeta, as well as the mother of Trunks and Bra.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076891/journal/dragon_ball_z_bulma_fwng9n.png",
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077231/journal/dragon_ball_z_bulma2_pyyeio.png"
-            ],
-            "inStock": 0,
-            "price": 120,
-            "sizes": "8-inches",
-            "slug": "dragon_ball_z_bulma",
-            "type": "Anime",
-            "category": "anime",
-            "license": "bulma",
-            "title": "BULMA DRAGON BALL Z",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Master Roshi , also known as the Turtle Hermit (or Turtle ( Kame) in his youth) and God of Martial Arts (Budō no Kami-sama), is a perverted hermit and a master of martial arts. He lives on his own isolated island called Kame House, where he may be willing to train students who travel to his doorstep. He is also the originator of the Kamehameha Wave.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077147/journal/master_roshi_max_power_azsnri.png"
-            ],
-            "inStock": 42,
-            "price": 300,
-            "sizes": "10-inches",
-            "slug": "master_roshi_max_power",
-            "type": "Anime",
-            "category": "anime",
-            "license": "roshi",
-            "title": "MASTER ROSHI MAX POWER",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Piccolo Jr. usually just called Piccolo is a Namekian and also the final child and reincarnation of King Piccolo, later becoming the reunification of the Nameless Namekian after fusing with Kami. According to Grand Elder Guru, Piccolo, along with Kami and King Piccolo, are part of the Dragon Clan, who were the original creators of the Dragon Balls.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076492/journal/piccolo_without_arm2_lzokly.png",
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674079580/journal/piccolo_without_arm_nrxckd.png"
-            ],
-            "inStock": 72,
-            "price": 300,
-            "sizes": "1.9-inches",
-            "slug": "piccolo_without_arm",
-            "type": "Anime",
-            "category": "anime",
-            "license": "piccolo",
-            "title": "PICCOLO WITHOUT ARM",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Gotenks, previously known as Trunkten, is the immensely powerful fusion of Goten and Trunks successfully using the Fusion Dance, and the first successful fusion dance character to be seen in the Dragon Ball series. ",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077097/journal/gotenks_lnkuis.png"
-            ],
-            "inStock": 50,
-            "price": 220,
-            "sizes": "5.8-inches",
-            "slug": "gotenks",
-            "type": "Anime",
-            "category": "anime",
-            "license": "gotenks",
-            "title": "Gotenks",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Chi-Chi is the princess of Fire Mountain and the daughter of the Ox-King. She later marries Goku and becomes the loving mother of Gohan and Goten. She was first introduced as a shy and fearful girl, but later, as she gets older.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076846/journal/chi_chi_dragon_ball_np2pcg.png"
-            ],
-            "inStock": 3,
-            "price": 20,
-            "sizes": "7.2-inches",
-            "slug": "chi_chi",
-            "type": "Anime",
-            "category": "anime",
-            "license": "chichi",
-            "title": "CHI-CHI",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Fused Zamasu  usually just referred to as Zamasu, is a Potara fusion born of the union between Goku Black (the original present Zamasu in the original present Goku's body) and Future Zamasu. He is the final antagonist of the Future Trunks Saga.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076985/journal/fused_zamasu_ym7hqd.png"
-            ],
-            "inStock": 54,
-            "price": 240,
-            "sizes": "15.2-inches",
-            "slug": "fused_zamasu",
-            "type": "Anime",
-            "category": "anime",
-            "license": "zamasu",
-            "title": "FUSED ZAMASU",
-            "company": "DRAGON BALL SUPER"
-        },
-        {
-            "description": "Goku Black, though usually referred to as Black, is an alternate incarnation of Zamasu and a former North Kai and Supreme Kai apprentice serving his former master Gowasu from the unaltered main timeline within Universe 10. He serves as the main antagonist of the Future Trunks Saga of Dragon Ball Super.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077099/journal/goku_black_rose_o4zm9l.png"
-            ],
-            "inStock": 0,
-            "price": 22,
-            "sizes": "15.2-inches",
-            "slug": "goku_black_rose",
-            "type": "Anime",
-            "category": "anime",
-            "license": "goku black",
-            "title": "GOKU BLACK ROSE",
-            "company": "DRAGON BALL SUPER"
-        },
-        {
-            "description": "Grand Zeno, the Omni-King, is the supreme ruler of all the Multiverse and seemingly its most powerful being. Since the events of the Future Trunks Saga, Zeno co-rules jointly with his future counterpart.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076738/journal/zeno_sama_smt26e.png"
-            ],
-            "inStock": 10,
-            "price": 220,
-            "sizes": "8.2-inches",
-            "slug": "zeno_sama",
-            "type": "Anime",
-            "category": "anime",
-            "license": "zeno_sama",
-            "title": "ZENO SAMA",
-            "company": "DRAGON BALL SUPER"
-        },
-        {
-            "description": "Raditz is a mid-class Saiyan warrior, the biological brother of Goku and the eldest son of Bardock and Gine. He is one of the few remaining full-blooded Saiyans left alive after his homeworld was destroyed. He seeks out Goku in order to recruit him into the Frieza Force to aid in conquering planets.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076927/journal/dragon_ball_z_raditz_qkjbpi.png"
-            ],
-            "inStock": 10,
-            "price": 220,
-            "sizes": "8.2-inches",
-            "slug": "dragon_ball_z_raditz",
-            "type": "Anime",
-            "category": "anime",
-            "license": "raditz",
-            "title": "RADITZ",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Shenron is a magical Dragon from the Dragon Ball franchise. he is mostly called the Eternal Dragon and, in the early Harmony Gold Dragon Ball English dub from the 1980s, he is known as the Dragon God.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076954/journal/dragon_ball_z_shenron_gbmvh0.png"
-            ],
-            "inStock": 12,
-            "price": 120,
-            "sizes": "16.2-inches",
-            "slug": "dragon_ball_z_shenron",
-            "type": "Anime",
-            "category": "anime",
-            "license": "shenron",
-            "title": "SHENRON",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Cell  is the ultimate creation of Dr. Gero, designed via cell recombination using the genetics of the greatest fighters that the remote tracking device could find on Earth. The result was a perfect warrior, possessing numerous favorable genetic traits and special abilities from Goku, Vegeta, Piccolo, Frieza and King Cold.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076419/journal/perfect_cell_i6y1v0.png"
-            ],
-            "inStock": 12,
-            "price": 120,
-            "sizes": "16.2-inches",
-            "slug": "perfect_cell",
-            "type": "Anime",
-            "category": "anime",
-            "license": "cell",
-            "title": "PERFECT CELL",
-            "company": "DRAGON BALL Z"
-        },
-        {
-            "description": "Groot was a Flora colossi from Planet X, the capital of the branch worlds. He did not get along with his fellow saplings, instead preferring the company of the Maintenance Mammals who the other saplings treated with prejudice. After Groot killed another sapling to defend a maintenance mammal it was brutalising.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077186/journal/guardians_of_the_galaxy_groot_dzle7b.png"
-            ],
-            "inStock": 1,
-            "price": 120,
-            "sizes": "12.2-inches",
-            "slug": "groot_baby",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "groot baby",
-            "title": "GROOT BABY (Earth-616) ",
-            "company": "MARVEL"
-        },
-        {
-            "description": " Drax's memories of his old life, instilling in him monomaniacal hate for Thanos. For years, Drax served as Thanos' nemesis, thwarting certain of the Titanian's plans, but never crushing Thanos himself. One particular battle between them led Drax to befriend Iron Man of Earth.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076954/journal/drax_gnqivo.png"
-            ],
-            "inStock": 19,
-            "price": 10,
-            "sizes": "2.2-inches",
-            "slug": "drax",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "drax",
-            "title": "DRAX (Earth-616)",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Dr. Bruce Banner, Ph.D. a.k.a. the Hulk is an American theoretical physicist, famed for his work into the studies of nuclear physics and gamma radiation. He was recruited by General Thaddeus Thunderbolt Ross and the US Army to develop the first Gamma Bomb. During its first live test he was bombarded with a massive dose of gamma rays while saving Rick Jones, a kid who was out on the test site.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077227/journal/hulk_endgame_nkfohq.png"
-            ],
-            "inStock": 12,
-            "price": 100,
-            "sizes": "9.2-inches",
-            "slug": "hulk_endgame",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "hulk",
-            "title": "HULK ENDGAME",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Tony Stark is a genius inventor and billionaire industrialist, who suits up in his armor of cutting-edge technology to become the super hero Iron Man. The adopted son of weapons manufacturer Howard Stark,[39] Tony inherited his family's company at a young age following his parents' death. While overseeing a manufacturing plant in a foreign country, Stark was kidnapped by local terrorists. ",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674079868/journal/transparent_iron_man_mask_vnmnrx.png"
-            ],
-            "inStock": 120,
-            "price": 150,
-            "sizes": "9.2-inches",
-            "slug": "transparent_iron_man_mask",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "iron man",
-            "title": "IRON MAN (Earth-616)",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Thor is the God of Thunder, a member of the race known as the Asgardians, a group of humanoid beings from the pocket dimension of Asgard, the Realm Eternal. Thor is the son of Odin, the All-Father and King of Asgard. He was worshiped by the humans known as Vikings and became part of Norse Mythology. Armed with his enchanted Uru hammer Mjolnir. ",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076753/journal/thor_endgame_jka8ig.png"
-            ],
-            "inStock": 10,
-            "price": 120,
-            "sizes": "10.2-inches",
-            "slug": "thor_endgame",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "thor",
-            "title": "THOR ENDGAME",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Known by many names, Erik Magnus Lehnsherr is a powerful mutant willing to go to any extreme to protect his species as Magneto, the master of magnetism. During his youth, he suffered atrocities at the hands of the Nazis in Auschwitz. After escaping, he learned at the cost of his own daughter's life that he had the mutant ability to generate and control magnetic fields, a condition that caused additional hate and fear from those who were different from him.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076874/journal/classic_x_men_magneto_kppvmi.png"
-            ],
-            "inStock": 100,
-            "price": 185,
-            "sizes": "11.5-inches",
-            "slug": "classic_x_men_magneto",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "magneto",
-            "title": "CLASSIC X MEN MAGNETO",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Iron Man used this armor to battle the Hulk, which was a very brutal fight. It was heavily damaged by the collapse of Stark Tower. Its remains were briefly possessed by the extradimensional demon named Zom. It was subsequently deactivated and was presumably salvaged by Stark Industries or S.H.I.E.L.D.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077071/journal/infinity_war_hulkbuster_amq3dr.png"
-            ],
-            "inStock": 10,
-            "price": 180,
-            "sizes": "15.5-inches",
-            "slug": "infinity_war_hulkbuster",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "hulkbuster",
-            "title": "INFINITY WAR HULKBUSTER",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Dr. Stephen Strange, M.D., a.k.a. Doctor Strange, was the Sorcerer Supreme for Earth-616. Strange was once a brilliant but arrogant neurosurgeon until a car accident crippled his hands.When modern medicine failed him, he embarked on a journey to Kamar-Taj in Tibet, where he was trained by the Ancient One. He healed his hands and learned more about Magic, eventually becoming a Master of the Mystic Arts.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077032/journal/doctor_strange_fmt0wd.png"
-            ],
-            "inStock": 6,
-            "price": 165,
-            "sizes": "10.5-inches",
-            "slug": "doctor_strange",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "doctor stranger",
-            "title": "DOCTOR STRANGE",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Thanos was one of the last sons of A'Lars, progenitor of the second colony of Eternals on Titan, and Sui-San, the last survivor of the original settlement of Eternals on this moon. He was born with purple, hide-like skin and a massive body due to his Deviant Syndrome. The very first time his mother laid her eyes on the baby, she was driven mad and tried to kill him.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077303/journal/thanos_endgame_jtudmd.png"
-            ],
-            "inStock": 2,
-            "price": 185,
-            "sizes": "9.5-inches",
-            "slug": "thanos_endgame",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "thanos",
-            "title": "THANOS ENDGAME",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Venompool is an alternate reality version of Deadpool from Earth-90211. He is the combination of Deadpool and the Venom symbiote. Being part of Earth-90211, he is a part of a reality the Beyonder loves partying in, a reality perpetually stuck in the 1980's in many regards, Venompool is the Beyonder's go to party-animal, until the party got boring for the Beyonder.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674080118/journal/venompool_back_in_black_tglzaj.png"
-            ],
-            "inStock": 2,
-            "price": 190,
-            "sizes": "19.5-inches",
-            "slug": "venompool_back_in_black",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "venompool",
-            "title": "VENOMPOOL BACK IN BLACK",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Cpt. Steven Steve Rogers a.k.a. Captain America, the First Avenger,  was rejected by the U.S. Army during World War II due to numerous health problems. He ultimately volunteered for Project Rebirth where he received the Super-Soldier Serum developed by Dr. Abraham Erskine. The serum greatly enhanced his frail body to the peak of human physicality.  As the Sentinel of Liberty.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077440/journal/captain_america_endgame_xahm7n.png"
-            ],
-            "inStock": 2,
-            "price": 190,
-            "sizes": "19.5-inches",
-            "slug": "captain_america_endgame",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "captain america",
-            "title": "CAPTAIN AMERICA ENDGAME",
-            "company": "MARVEL"
-        },
-        {
-            "description": "A skilled military pilot, Jim Rhodes is one of the few people Tony Stark trusts to use the technology of the Iron Man Armor, flying high in his own suit as War Machine. An aviator engineer for Stark Industries,[15] Rhodes was also the personal pilot and eventually confidant of Tony Stark.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077420/journal/endgame_war_machine_j4o00y.png"
-            ],
-            "inStock": 2,
-            "price": 190,
-            "sizes": "19.5-inches",
-            "slug": "endgame_war_machine",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "war machine",
-            "title": "ENDGAME WAR MACHINE",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Hela Odinsdottir was the Asgardian goddess of death and former Executioner of Asgard. Imprisoned in Hel for millennia by her father Odin, Hela was only released from her prison in the wake of his death and went to restore her power over Asgard while simultaneously engaging in a series of encounters with her younger brothers Thor and Loki. ",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077036/journal/hela_lulnno.png"
-            ],
-            "inStock": 42,
-            "price": 10,
-            "sizes": "19.5-inches",
-            "slug": "hela",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "hela",
-            "title": "HELA",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Part of Lord Raiden's team of champions, Liu Kang has dedicated his life to serving as a guide and counselor in Mortal Kombat for the forces of Earthrealm.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077108/journal/liu_kang_vgtapp.png"
-            ],
-            "inStock": 5,
-            "price": 15,
-            "sizes": "3.5-inches",
-            "slug": "liu_kang",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "liu kang",
-            "title": "LIU KANG",
-            "company": "MORTAL KOMBAT"
-        },
-        {
-            "description": "An Elder God and the champion of Earthrealm, Lord Raiden grants sanctuary in his temple to those who bear the dragon mark that serves as an invitation to Mortal Kombat.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076493/journal/raiden_nm6vie.png",
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076661/journal/raiden2_vga3rk.png"
-            ],
-            "inStock": 7,
-            "price": 18,
-            "sizes": "3.5-inches",
-            "slug": "raiden",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "raiden",
-            "title": "RAIDEN",
-            "company": "MORTAL KOMBAT"
-        },
-        {
-            "description": "Sub-Zero, once known as Bi-Han, is a Cryomancer in service as an assassin of the Lin Kuei clan. He serves at their command, his deadly training and cunning intelligence making him a ruthless opponent who cuts down those in his path with his ice attacks.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077335/journal/sub_zero_a8slgh.png"
-            ],
-            "inStock": 2,
-            "price": 180,
-            "sizes": "8.14-inches",
-            "slug": "sub_zero",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "subzero",
-            "title": "SUB-ZERO",
-            "company": "MORTAL KOMBAT"
-        },
-        {
-            "description": "Scorpion, renowned as the greatest warrior ever to live, was a ninja born of the Shirai Ryu clan. His death at the hands of rival assassin Bi-Han banished him to the Netherrealm, his soul trapped in eternal fire.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077390/journal/mortal_kombat_x_scorpion2_odjnar.png",
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674080349/journal/mortal_kombat_x_scorpion_mueg13.png"
-            ],
-            "inStock": 1,
-            "price": 10,
-            "sizes": "8.14-inches",
-            "slug": "mortal_kombat_x_scorpion",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "subzero",
-            "title": "SCORPION",
-            "company": "MORTAL KOMBAT"
-        },
-        {
-            "description": "Fumikage is a short young man with the head of a black bird, possibly supposed to resemble that of a crow or a raven. He has a tan, yellowish beak which is slightly hooked down at the end, thin, red eyes with a small black pupil, one on each side of his head, and a red choker, which he rarely removes.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076486/journal/my_hero_academia_tokoyami_e8a8wl.png"
-            ],
-            "inStock": 2,
-            "price": 10,
-            "sizes": "3.6-inches",
-            "slug": "my_hero_academia_tokoyami",
-            "type": "Anime",
-            "category": "anime",
-            "license": "tokoyami",
-            "title": "TOKOYAMI",
-            "company": "MY HERO ACADEMIA"
-        },
-        {
-            "description": "Eijiro is a muscular young man of average height and a rather impressive physique for his young age. He has red eyes that are pointed slightly inwards and a small scar just above his right eye, which Horikoshi admits he frequently forgets to draw.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076463/journal/my_hero_academia_kirishima_napqw6.png"
-            ],
-            "inStock": 4,
-            "price": 120,
-            "sizes": "9.6-inches",
-            "slug": "my_hero_academia_kirishima",
-            "type": "Anime",
-            "category": "anime",
-            "license": "kirishima",
-            "title": "KIRISHIMA",
-            "company": "MY HERO ACADEMIA"
-        },
-        {
-            "description": "Even though Izuku was born Quirkless, he manages to catch the attention of the legendary hero All Might, due to his innate heroism and a strong sense of justice, and has since become his close pupil, as well as a student in Class 1-A at U.A. High School. ",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076453/journal/my_hero_academia_deku_sjlmk8.png"
-            ],
-            "inStock": 80,
-            "price": 12,
-            "sizes": "4.2-inches",
-            "slug": "my_hero_academia_deku",
-            "type": "Anime",
-            "category": "anime",
-            "license": "deku",
-            "title": "DEKU",
-            "company": "MY HERO ACADEMIA"
-        },
-        {
-            "description": "Was born  to an abusive father. After escaping to the circus Clint and his brother Barney were under the protection of the Swordsman.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077272/journal/hawkeye_in_team_suit_wocpp7.png"
-            ],
-            "inStock": 80,
-            "price": 12,
-            "sizes": "4.2-inches",
-            "slug": "hawkeye_in_team_suit",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "hawkeye",
-            "title": "HAWKEYE IN TEAM SUIT",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Marc Spector grew up in a Jewish family as the son of a rabbi. As a young man, he served in the Marines and later became a mercenary. As first recounted in 1980’s Moon Knight #1, it was during his mercenary days that Marc and his partner Jean-Paul “Frenchie” Duchamp took a job with Raul Bushman to help recover an ancient tomb in Egypt. Bushman would kill Peter Alraune, the archaeologist helping with the recovery, to claim it for himself.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077371/journal/moon_knight_l9dmzl.png"
-            ],
-            "inStock": 8,
-            "price": 102,
-            "sizes": "8.2-inches",
-            "slug": "moon_knight",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "moon knight",
-            "title": "MOON KNIGHT",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Batman is a superhero published by DC Comics. Operating in Gotham City, he serves as its protector, using the symbol of a bat to strike fear into the hearts of criminals. Unlike other superheroes, Batman is often depicted to lack any superpowers, instead using lifelong training and equipment to fight crime. His secret identity is Bruce Wayne.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076967/journal/classic_batman_fdctro.png"
-            ],
-            "inStock": 2,
-            "price": 150,
-            "sizes": "10.9-inches",
-            "slug": "classic_batman",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "batman",
-            "title": "CLASSIC BATMAN",
-            "company": "DC"
-        },
-        {
-            "description": " Miles originally wore a red and blue Spider-Suit like Peter's, before being told it was in poor taste. Nick Fury gifts the young hero a black and red suit, cementing his role as the new Spider-Man.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077236/journal/miles_morales_reqvzp.png"
-            ],
-            "inStock": 20,
-            "price": 15,
-            "sizes": "13.9-inches",
-            "slug": "miles_morales",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "miles morales",
-            "title": "MILES MORALES",
-            "company": "MARVEL"
-        },
-        {
-            "description": "After a sabotaged experiment leaves him with super strength and unbreakable skin, Luke Cage becomes a fugitive trying to rebuild his life in modern-day Harlem, New York City. But he is soon pulled out of the shadows and must fight a battle for the heart of his city--forcing him to confront a past he had tried to bury.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077158/journal/luke_cage_xc5wqk.png"
-            ],
-            "inStock": 20,
-            "price": 15,
-            "sizes": "10.9-inches",
-            "slug": "luke_cage",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "luke cage",
-            "title": "LUKE CAGE",
-            "company": "MARVEL"
-        },
-        {
-            "description": "Richard Dick Grayson, most commonly known as Robin, is the former protégé of Batman, as well as the leader of the Teen Titans, and one of the five main protagonists of Teen Titans Go!.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077287/journal/all_teen_titans_go_robin_vsdixo.png"
-            ],
-            "inStock": 13,
-            "price": 14,
-            "sizes": "12.7-inches",
-            "slug": "all_teen_titans_go_robin",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "robin",
-            "title": "ROBIN TEEN TITANS",
-            "company": "DC"
-        },
-        {
-            "description": "Raven is a member of the Teen Titans and one of the five main protagonists of Teen Titans Go!. Her demonic-inherited powers from her father, Trigon, are a significant asset to the team, but when not in combat, she generally prefers to keep to herself.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076765/journal/all_teen_titans_go_raven_tyl6ce.png"
-            ],
-            "inStock": 2,
-            "price": 14,
-            "sizes": "2.9-inches",
-            "slug": "all_teen_titans_go_raven",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "raven",
-            "title": "RAVEN TEEN TITANS",
-            "company": "DC"
-        },
-        {
-            "description": "Princess Koriand'r, more commonly known as Starfire, is a member of the Teen Titans and one of the five main protagonists of Teen Titans Go!. Although this intergalactic princess has trouble adapting to Earth life, she makes up for it with her cute looks, good-natured demeanor, and devastating superpowers courtesy of her kind and experiments by the Psion scientists.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076825/journal/all_teen_titans_go_star_fire_upxkim.png"
-            ],
-            "inStock": 13,
-            "price": 13,
-            "sizes": "12.9-inches",
-            "slug": "all_teen_titans_go_star_fire",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "starfire",
-            "title": "STARFIRE TEEN TITANS",
-            "company": "DC"
-        },
-        {
-            "description": "Is the older sister of Starfire, who also hails from planet Tamaran. She debuted in the second season premiere, Mr Butt but had no more lines until the fifth season. She is voiced by Hynden Walch, who also voices her sister.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077457/journal/all_teen_titans_go_black_fire_iufnnp.png"
-            ],
-            "inStock": 5,
-            "price": 27,
-            "sizes": "12.9-inches",
-            "slug": "all_teen_titans_go_black_fire",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "blackfire",
-            "title": "BLACKFIRE TEEN TITANS",
-            "company": "DC"
-        },
-        {
-            "description": "Obi-Wan has closed his journals for now and looks ahead as night falls and the sandstorm that has sequestered him begins to clear. But he discovers something unexpected in the hazards of the Jundland Wastes…a squad of ambushed stormtroopers left to die.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674080716/journal/star_wars_obi_wan_kenobi_swneke.png"
-            ],
-            "inStock": 14,
-            "price": 26,
-            "sizes": "11.12-inches",
-            "slug": "star_wars_obi_wan_kenobi",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "obi wan kenobi",
-            "title": "OBI WAN KENOBI",
-            "company": "STAR WARS"
-        },
-        {
-            "description": "The Darth title was more than just a symbol of power; it was a claim of supremacy. It was used by those Dark Lords who have sought to enforce their will on the other Masters. It was a challenge — a warning to bow down or be destroyed.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076987/journal/darth_vader_fytt1k.png"
-            ],
-            "inStock": 10,
-            "price": 260,
-            "sizes": "3.9-inches",
-            "slug": "darth_vader",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "darth vader",
-            "title": "DARTH VADER",
-            "company": "STAR WARS"
-        },
-        {
-            "description": "Boba Fett is the main protagonist and the title character of Boba Fett: Open Seasons, being mainly portrayed as a villain in most Star Wars media. He is a feared Mandalorian bounty hunter during the Imperial Era and beyond.",
-            "images": [
-                ".https://res.cloudinary.com/dcqjalyga/image/upload/v1674076841/journal/boba_fett_pdllik.png"
-            ],
-            "inStock": 0,
-            "price": 20,
-            "sizes": "12.14-inches",
-            "slug": "boba_fett",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "boba fett",
-            "title": "BOBA FETT",
-            "company": "STAR WARS"
-        },
-        {
-            "description": "Crash Bandicoot is the titular character and the main protagonist of the series of the same name. He is an Eastern barred bandicoot living in N. Sanity Island, who was captured and evolved by Dr. Neo Cortex.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076862/journal/crash_bandicoot_jrfscy.png"
-            ],
-            "inStock": 50,
-            "price": 200,
-            "sizes": "17.9-inches",
-            "slug": "crash_bandicoot",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "crash bandicoot",
-            "title": "CRASH BANDICOOT",
-            "company": "SONY"
-        },
-        {
-            "description": "The Joker is the archenemy of Batman | The Joker is an infamously extreme and formidable psychopathic crime lord from Gotham City, being at the very top of the city's criminal underworld, greatly feared by all other crime bosses and criminals, including his long time rival Roman Sionis.",
-            "images": [
-                "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077117/journal/joker_suicide_squad_zr4jrp.png"
-            ],
-            "inStock": 13,
-            "price": 22,
-            "sizes": "5.22-inches",
-            "slug": "joker_suicide_squad",
-            "type": "Heroes & Villains",
-            "category": "heroes-villians",
-            "license": "joker",
-            "title": "THE JOKER SUICIDE SQUAD",
-            "company": "DC"
-        }
-    ]
+
+  
+  {
+      "description": "Just when you thought the merc with the mouth couldn't get any cooler, I stride into the picture with my swords drawn. Bring me home with this Pop! Deadpool (Two Swords).",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076865/journal/deadpool_with_two_swords_thurgr.png"
+      ],
+      "inStock": 7,
+      "price": 12,
+      "sizes":"3.75-inches",
+      "slug": "deadpool_with_two_swords",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "deadpool",
+      "title": "DEADPOOL WITH TWO SWORDS",
+      "company": "MARVEL"
+  },
+
+  {
+      "description": "The king of Wakanda leaps into action to help save his people, and the world, as Black Panther. Bring Pop! Black Panther into your Marvel collection.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076802/journal/black_panther1_bu3aoo.png",
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077238/journal/black_panther2_qwfplf.png"
+      ],
+      "inStock": 1,
+      "price": 12,
+      "sizes":"2.25-inches to 3-inches",
+      "slug": "black_panther",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "black panther",
+      "title": "BLACK PANTHER",
+      "company": "MARVEL"
+  },
+  
+  {
+      "description": "Celebrate the heroic beginnings of one of the Avengers’ mightiest heroes with the exclusive Pop! Captain America with Prototype Shield. Wearing his 1940s uniform from the United States Army, Steve Rogers holds an early version of his iconic shield. Who will this hero team up with in your Marvel collection?",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076866/journal/captain_america_with_prototype_shield_marvel_angx8c.png"
+          
+      ],
+      "inStock": 10,
+      "price": 15,
+      "sizes": "4-inches",
+      "slug": "captain_america_with_prototype_shield_marvel",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "captain america",
+      "title": "CAPTAIN AMERICA WITH PROTOTYPE SHIELD",
+      "company": "MARVEL"
+  },
+
+  {
+      "description": "Monstrous villains mean serious armor upgrades to tackle the task. Complete your Marvel Mech Strike Monster Hunter series by collecting Pop!",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674079282/journal/venom_monster_zv6f3d.png"
+          
+      ],
+      "inStock": 50,
+      "price": 12,
+      "sizes": "4-inches",
+      "slug": "venom_monster",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "venom",
+      "title": "VENOM",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Celebrate 80 years of Marvel with this Pop! of first appearance Spider-Man. He's leaping at the opportunity to join your Marvel Comics collection.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076511/journal/spider_man_80_sadlv5.png"
+       
+      ],
+      "inStock": 50,
+      "price": 12,
+      "sizes": "3.75-inches",
+      "slug": "spider_man_80",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "spiderman",
+      "title": "SPIDER-MAN-80th",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Inspired by the worlds most unlimited resource, the Let the Sun Shine Tee highlights our fully integrated home solar and storage system. Designed for fit, comfort and style, the tee features a sunset graphic along with our Tesla wordmark on the front and our signature T logo printed above Solar Roof on the back. Made from 100% Peruvian cotton.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076611/journal/superman_action_comics_vug79y.png"
+         
+      ],
+      "inStock": 50,
+      "price": 12,
+      "sizes": "3.75-inches",
+      "slug": "superman_action_comics",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "superman",
+      "title": " SUPERMAN - ACTION COMICS #1",
+      "company": "DC"
+  },
+  {
+      "description": "I“Are you ready now to witness a power not seen for thousands of years?” Jumbo Pop! Vegeta is ready to fight for his spot in your Dragon Ball Z collection.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076932/journal/vegeta_dragon_ball_z-10_gfkjvk.png"
+         
+      ],
+      "inStock": 60,
+      "price": 40,
+      "sizes": "10-inches",
+      "slug": "vegeta_dragon_ball_z-10",
+      "type": "Anime",
+      "category":"anime",
+      "license": "vegeta",
+      "title": "VEGETA - DRAGON BALL Z",
+      "company": "DRAGON BALL Z"
+  },
+  
+
+  {
+      "description": "Naruto is charging straight into your Naruto Shippuden set. Own your own Pop! Vinyl of Naruto in his iconic running stance. Collectible stands.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076402/journal/naruto_uzumaki_naruto_shippuden_kddekr.png"
+         
+      ],
+      "inStock": 6,
+      "price": 12,
+      "sizes": "3.5-inches",
+      "slug": "naruto_uzumaki_naruto_shippuden",
+      "type": "Anime",
+      "category":"anime",
+      "license": "naruto",
+      "title": "NARUTO UZUMAKI - SHIPPUDEN",
+      "company": "NARUTO SHIPPUDEN"
+  },
+  {
+      "description": "As an infant, Goku was sent to destroy Earth but ended up becoming one of the planet's greatest heroes after the young Saiyan was rid of his senselessly destructive nature. Your Dragon Ball Z collection wouldn't be the same without it's warrior protagonist Goku, in his first appearance in Super Saiyan form, as a Pop! to protect it from attackers.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076597/journal/super_saiyan_goku_dragon_ball_z_wtgmqv.png"
+         
+      ],
+      "inStock": 50,
+      "price": 12,
+      "sizes": "5-inches",
+      "slug": "super_saiyan_goku_dragon_ball_z",
+      "type": "Anime",
+      "category":"anime",
+      "license": "goku",
+      "title": "SUPER SAIYAN GOKU",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Zamasu the North Kai of Universe 10, as well as the Supreme Kai apprentice from Universe 10, and is also the main antagonist of the Future Trunks Saga in Dragon Ball Super. Due to the abuse of time travel and taking up of new forms, several different incarnations of Zamasu exist.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076772/journal/zamasu_ir3xew.png"
+         
+      ],
+      "inStock": 6,
+      "price": 15,
+      "sizes": "4-inches",
+      "slug": "zamasu",
+      "type": "Anime",
+      "category":"anime",
+      "license": "zamasu",
+      "title": "ZAMASU",
+      "company": "DRAGON BALL SUPER"
+  },
+  {
+      "description": "Jiren, also known as Jiren The Gray is the most powerful member of the Pride Troopers. He served as the main fighting antagonist in the Universe Survival Saga and as a major contestant in the Tournament of Power. An extraordinary powerful being Jiren is considered to be one of the strongest mortals in all of the multiverse.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077613/journal/jiren_base_uuu6gt.png"
+         
+      ],
+      "inStock": 90,
+      "price": 150,
+      "sizes": "10-inches",
+      "slug": "jiren_base",
+      "type": "Anime",
+      "category":"anime",
+      "license": "jiren",
+      "title": "JIREN",
+      "company": "DRAGON BALL SUPER"
+  },
+  {
+      "description": "Freezer is the main antagonist of the Dragon Ball series. He is the leader of his own imperialist army and emperor of parts of Universe 7. A cruel tyrant, he is feared throughout the universe for his ruthlessness and immense power. He is the descendant of Chilled, the youngest son of King Cold, the younger brother of Cooler, and the father of Kuriza.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077579/journal/mecha_frieza_dhdwgg.png"
+         
+      ],
+      "inStock": 20,
+      "price": 100,
+      "sizes": "5-inches",
+      "slug": "mecha_frieza",
+      "type": "Anime",
+      "category":"anime",
+      "license": "freezer",
+      "title": "MECHA FREEZER",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Future Trunks is a Saiyan-Earthling hybrid and the son of Vegeta and Bulma, both from an alternate future. By the time Present Trunks was born, the timeline had been drastically altered by Future Trunks' and Cell's trips to the past.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076621/journal/super_saiyan_future_trunks_zokmkz.png"
+         
+      ],
+      "inStock": 20,
+      "price": 100,
+      "sizes": "5-inches",
+      "slug": "super_saiyan_future_trunks",
+      "type": "Anime",
+      "category":"anime",
+      "license": "trunks",
+      "title": "SUPER SAIYAN FUTURE TRUNKS",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Son Gohan is a half-breed Saiyan and one of the most prominent characters in the Dragon Ball series. He is the elder son of the series' primary protagonist Goku and his wife Chi-Chi, the eldest nephew of Raditz, the older brother of Goten, the husband of Videl and father to Pan.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077306/journal/ultimate_gohan_atuasw.png"
+         
+      ],
+      "inStock": 2,
+      "price": 120,
+      "sizes": "4-inches",
+      "slug": "ultimate_gohan",
+      "type": "Anime",
+      "category":"anime",
+      "license": "gohan",
+      "title": "ULTIMATE GOHAN",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Bulma is a brilliant scientist and the second daughter of Capsule Corporation's founder Dr. Brief and his wife Bikini, the younger sister of Tights, and is Goku's first friend. She used to be the girlfriend of Yamcha but moved on (while remaining friends with him) and, eventually, became the wife of Vegeta, as well as the mother of Trunks and Bra.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076891/journal/dragon_ball_z_bulma_fwng9n.png",
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077231/journal/dragon_ball_z_bulma2_pyyeio.png"
+         
+      ],
+      "inStock": 0,
+      "price": 120,
+      "sizes": "8-inches",
+      "slug": "dragon_ball_z_bulma",
+      "type": "Anime",
+      "category":"anime",
+      "license": "bulma",
+      "title": "BULMA DRAGON BALL Z",
+      "company": "DRAGON BALL Z"
+  },
+  
+  {
+      "description": "Master Roshi , also known as the Turtle Hermit (or Turtle ( Kame) in his youth) and God of Martial Arts (Budō no Kami-sama), is a perverted hermit and a master of martial arts. He lives on his own isolated island called Kame House, where he may be willing to train students who travel to his doorstep. He is also the originator of the Kamehameha Wave.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077147/journal/master_roshi_max_power_azsnri.png"
+         
+      ],
+      "inStock": 42,
+      "price": 300,
+      "sizes": "10-inches",
+      "slug": "master_roshi_max_power",
+      "type": "Anime",
+      "category":"anime",
+      "license": "roshi",
+      "title": "MASTER ROSHI MAX POWER",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Piccolo Jr. usually just called Piccolo is a Namekian and also the final child and reincarnation of King Piccolo, later becoming the reunification of the Nameless Namekian after fusing with Kami. According to Grand Elder Guru, Piccolo, along with Kami and King Piccolo, are part of the Dragon Clan, who were the original creators of the Dragon Balls.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076492/journal/piccolo_without_arm2_lzokly.png",
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674079580/journal/piccolo_without_arm_nrxckd.png"
+         
+      ],
+      "inStock": 72,
+      "price": 300,
+      "sizes": "1.9-inches",
+      "slug": "piccolo_without_arm",
+      "type": "Anime",
+      "category":"anime",
+      "license": "piccolo",
+      "title": "PICCOLO WITHOUT ARM",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Gotenks, previously known as Trunkten, is the immensely powerful fusion of Goten and Trunks successfully using the Fusion Dance, and the first successful fusion dance character to be seen in the Dragon Ball series. ",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077097/journal/gotenks_lnkuis.png"
+         
+      ],
+      "inStock": 50,
+      "price": 220,
+      "sizes": "5.8-inches",
+      "slug": "gotenks",
+      "type": "Anime",
+      "category":"anime",
+      "license": "gotenks",
+      "title": "Gotenks",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Chi-Chi is the princess of Fire Mountain and the daughter of the Ox-King. She later marries Goku and becomes the loving mother of Gohan and Goten. She was first introduced as a shy and fearful girl, but later, as she gets older.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076846/journal/chi_chi_dragon_ball_np2pcg.png"
+         
+      ],
+      "inStock": 3,
+      "price": 20,
+      "sizes": "7.2-inches",
+      "slug": "chi_chi",
+      "type": "Anime",
+      "category":"anime",
+      "license": "chichi",
+      "title": "CHI-CHI",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Fused Zamasu  usually just referred to as Zamasu, is a Potara fusion born of the union between Goku Black (the original present Zamasu in the original present Goku's body) and Future Zamasu. He is the final antagonist of the Future Trunks Saga.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076985/journal/fused_zamasu_ym7hqd.png"
+         
+      ],
+      "inStock": 54,
+      "price": 240,
+      "sizes": "15.2-inches",
+      "slug": "fused_zamasu",
+      "type": "Anime",
+      "category":"anime",
+      "license": "zamasu",
+      "title": "FUSED ZAMASU",
+      "company": "DRAGON BALL SUPER"
+  },
+  
+  {
+      "description": "Goku Black, though usually referred to as Black, is an alternate incarnation of Zamasu and a former North Kai and Supreme Kai apprentice serving his former master Gowasu from the unaltered main timeline within Universe 10. He serves as the main antagonist of the Future Trunks Saga of Dragon Ball Super.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077099/journal/goku_black_rose_o4zm9l.png"
+         
+      ],
+      "inStock": 0,
+      "price": 22,
+      "sizes": "15.2-inches",
+      "slug": "goku_black_rose",
+      "type": "Anime",
+      "category":"anime",
+      "license": "goku black",
+      "title": "GOKU BLACK ROSE",
+      "company": "DRAGON BALL SUPER"
+  },
+  {
+      "description": "Grand Zeno, the Omni-King, is the supreme ruler of all the Multiverse and seemingly its most powerful being. Since the events of the Future Trunks Saga, Zeno co-rules jointly with his future counterpart.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076738/journal/zeno_sama_smt26e.png"
+         
+      ],
+      "inStock": 10,
+      "price": 220,
+      "sizes": "8.2-inches",
+      "slug": "zeno_sama",
+      "type": "Anime",
+      "category":"anime",
+      "license": "zeno_sama",
+      "title": "ZENO SAMA",
+      "company": "DRAGON BALL SUPER"
+  },
+  {
+      "description": "Raditz is a mid-class Saiyan warrior, the biological brother of Goku and the eldest son of Bardock and Gine. He is one of the few remaining full-blooded Saiyans left alive after his homeworld was destroyed. He seeks out Goku in order to recruit him into the Frieza Force to aid in conquering planets.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076927/journal/dragon_ball_z_raditz_qkjbpi.png"
+         
+      ],
+      "inStock": 10,
+      "price": 220,
+      "sizes": "8.2-inches",
+      "slug": "dragon_ball_z_raditz",
+      "type": "Anime",
+      "category":"anime",
+      "license": "raditz",
+      "title": "RADITZ",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Shenron is a magical Dragon from the Dragon Ball franchise. he is mostly called the Eternal Dragon and, in the early Harmony Gold Dragon Ball English dub from the 1980s, he is known as the Dragon God.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076954/journal/dragon_ball_z_shenron_gbmvh0.png"
+         
+      ],
+      "inStock": 12,
+      "price": 120,
+      "sizes": "16.2-inches",
+      "slug": "dragon_ball_z_shenron",
+      "type": "Anime",
+      "category":"anime",
+      "license": "shenron",
+      "title": "SHENRON",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Cell  is the ultimate creation of Dr. Gero, designed via cell recombination using the genetics of the greatest fighters that the remote tracking device could find on Earth. The result was a perfect warrior, possessing numerous favorable genetic traits and special abilities from Goku, Vegeta, Piccolo, Frieza and King Cold.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076419/journal/perfect_cell_i6y1v0.png"
+         
+      ],
+      "inStock": 12,
+      "price": 120,
+      "sizes": "16.2-inches",
+      "slug": "perfect_cell",
+      "type": "Anime",
+      "category":"anime",
+      "license": "cell",
+      "title": "PERFECT CELL",
+      "company": "DRAGON BALL Z"
+  },
+  {
+      "description": "Groot was a Flora colossi from Planet X, the capital of the branch worlds. He did not get along with his fellow saplings, instead preferring the company of the Maintenance Mammals who the other saplings treated with prejudice. After Groot killed another sapling to defend a maintenance mammal it was brutalising.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077186/journal/guardians_of_the_galaxy_groot_dzle7b.png"
+         
+      ],
+      "inStock": 1,
+      "price": 120,
+      "sizes": "12.2-inches",
+      "slug": "groot_baby",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "groot baby",
+      "title": "GROOT BABY (Earth-616) ",
+      "company": "MARVEL"
+  },
+  {
+      "description": " Drax's memories of his old life, instilling in him monomaniacal hate for Thanos. For years, Drax served as Thanos' nemesis, thwarting certain of the Titanian's plans, but never crushing Thanos himself. One particular battle between them led Drax to befriend Iron Man of Earth.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076954/journal/drax_gnqivo.png"
+         
+      ],
+      "inStock": 19,
+      "price": 10,
+      "sizes": "2.2-inches",
+      "slug": "drax",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "drax",
+      "title": "DRAX (Earth-616)",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Dr. Bruce Banner, Ph.D. a.k.a. the Hulk is an American theoretical physicist, famed for his work into the studies of nuclear physics and gamma radiation. He was recruited by General Thaddeus Thunderbolt Ross and the US Army to develop the first Gamma Bomb. During its first live test he was bombarded with a massive dose of gamma rays while saving Rick Jones, a kid who was out on the test site.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077227/journal/hulk_endgame_nkfohq.png"
+         
+      ],
+      "inStock": 12,
+      "price": 100,
+      "sizes": "9.2-inches",
+      "slug": "hulk_endgame",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "hulk",
+      "title": "HULK ENDGAME",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Tony Stark is a genius inventor and billionaire industrialist, who suits up in his armor of cutting-edge technology to become the super hero Iron Man. The adopted son of weapons manufacturer Howard Stark,[39] Tony inherited his family's company at a young age following his parents' death. While overseeing a manufacturing plant in a foreign country, Stark was kidnapped by local terrorists. ",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674079868/journal/transparent_iron_man_mask_vnmnrx.png"
+         
+      ],
+      "inStock": 120,
+      "price": 150,
+      "sizes": "9.2-inches",
+      "slug": "transparent_iron_man_mask",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "iron man",
+      "title": "IRON MAN (Earth-616)",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Thor is the God of Thunder, a member of the race known as the Asgardians, a group of humanoid beings from the pocket dimension of Asgard, the Realm Eternal. Thor is the son of Odin, the All-Father and King of Asgard. He was worshiped by the humans known as Vikings and became part of Norse Mythology. Armed with his enchanted Uru hammer Mjolnir. ",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076753/journal/thor_endgame_jka8ig.png"
+         
+      ],
+      "inStock": 10,
+      "price": 120,
+      "sizes": "10.2-inches",
+      "slug": "thor_endgame",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "thor",
+      "title": "THOR ENDGAME",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Known by many names, Erik Magnus Lehnsherr is a powerful mutant willing to go to any extreme to protect his species as Magneto, the master of magnetism. During his youth, he suffered atrocities at the hands of the Nazis in Auschwitz. After escaping, he learned at the cost of his own daughter's life that he had the mutant ability to generate and control magnetic fields, a condition that caused additional hate and fear from those who were different from him.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076874/journal/classic_x_men_magneto_kppvmi.png"
+         
+      ],
+      "inStock": 100,
+      "price": 185,
+      "sizes": "11.5-inches",
+      "slug": "classic_x_men_magneto",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "magneto",
+      "title": "CLASSIC X MEN MAGNETO",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Iron Man used this armor to battle the Hulk, which was a very brutal fight. It was heavily damaged by the collapse of Stark Tower. Its remains were briefly possessed by the extradimensional demon named Zom. It was subsequently deactivated and was presumably salvaged by Stark Industries or S.H.I.E.L.D.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077071/journal/infinity_war_hulkbuster_amq3dr.png"
+         
+      ],
+      "inStock": 10,
+      "price": 180,
+      "sizes": "15.5-inches",
+      "slug": "infinity_war_hulkbuster",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "hulkbuster",
+      "title": "INFINITY WAR HULKBUSTER",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Dr. Stephen Strange, M.D., a.k.a. Doctor Strange, was the Sorcerer Supreme for Earth-616. Strange was once a brilliant but arrogant neurosurgeon until a car accident crippled his hands.When modern medicine failed him, he embarked on a journey to Kamar-Taj in Tibet, where he was trained by the Ancient One. He healed his hands and learned more about Magic, eventually becoming a Master of the Mystic Arts.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077032/journal/doctor_strange_fmt0wd.png"
+         
+      ],
+      "inStock": 6,
+      "price": 165,
+      "sizes": "10.5-inches",
+      "slug": "doctor_strange",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "doctor stranger",
+      "title": "DOCTOR STRANGE",
+      "company": "MARVEL"
+  },
+
+  
+  {
+      "description": "Thanos was one of the last sons of A'Lars, progenitor of the second colony of Eternals on Titan, and Sui-San, the last survivor of the original settlement of Eternals on this moon. He was born with purple, hide-like skin and a massive body due to his Deviant Syndrome. The very first time his mother laid her eyes on the baby, she was driven mad and tried to kill him.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077303/journal/thanos_endgame_jtudmd.png"
+         
+      ],
+      "inStock": 2,
+      "price": 185,
+      "sizes": "9.5-inches",
+      "slug": "thanos_endgame",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "thanos",
+      "title": "THANOS ENDGAME",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Venompool is an alternate reality version of Deadpool from Earth-90211. He is the combination of Deadpool and the Venom symbiote. Being part of Earth-90211, he is a part of a reality the Beyonder loves partying in, a reality perpetually stuck in the 1980's in many regards, Venompool is the Beyonder's go to party-animal, until the party got boring for the Beyonder.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674080118/journal/venompool_back_in_black_tglzaj.png"
+         
+      ],
+      "inStock": 2,
+      "price": 190,
+      "sizes": "19.5-inches",
+      "slug": "venompool_back_in_black",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "venompool",
+      "title": "VENOMPOOL BACK IN BLACK",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Cpt. Steven Steve Rogers a.k.a. Captain America, the First Avenger,  was rejected by the U.S. Army during World War II due to numerous health problems. He ultimately volunteered for Project Rebirth where he received the Super-Soldier Serum developed by Dr. Abraham Erskine. The serum greatly enhanced his frail body to the peak of human physicality.  As the Sentinel of Liberty.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077440/journal/captain_america_endgame_xahm7n.png"
+         
+      ],
+      "inStock": 2,
+      "price": 190,
+      "sizes": "19.5-inches",
+      "slug": "captain_america_endgame",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "captain america",
+      "title": "CAPTAIN AMERICA ENDGAME",
+      "company": "MARVEL"
+  },
+  {
+      "description": "A skilled military pilot, Jim Rhodes is one of the few people Tony Stark trusts to use the technology of the Iron Man Armor, flying high in his own suit as War Machine. An aviator engineer for Stark Industries,[15] Rhodes was also the personal pilot and eventually confidant of Tony Stark.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077420/journal/endgame_war_machine_j4o00y.png"
+         
+      ],
+      "inStock": 2,
+      "price": 190,
+      "sizes": "19.5-inches",
+      "slug": "endgame_war_machine",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "war machine",
+      "title": "ENDGAME WAR MACHINE",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Hela Odinsdottir was the Asgardian goddess of death and former Executioner of Asgard. Imprisoned in Hel for millennia by her father Odin, Hela was only released from her prison in the wake of his death and went to restore her power over Asgard while simultaneously engaging in a series of encounters with her younger brothers Thor and Loki. ",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077036/journal/hela_lulnno.png"
+         
+      ],
+      "inStock": 42,
+      "price": 10,
+      "sizes": "19.5-inches",
+      "slug": "hela",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "hela",
+      "title": "HELA",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Part of Lord Raiden's team of champions, Liu Kang has dedicated his life to serving as a guide and counselor in Mortal Kombat for the forces of Earthrealm.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077108/journal/liu_kang_vgtapp.png"
+         
+      ],
+      "inStock": 5,
+      "price": 15,
+      "sizes": "3.5-inches",
+      "slug": "liu_kang",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "liu kang",
+      "title": "LIU KANG",
+      "company": "MORTAL KOMBAT"
+  },
+  {
+      "description": "An Elder God and the champion of Earthrealm, Lord Raiden grants sanctuary in his temple to those who bear the dragon mark that serves as an invitation to Mortal Kombat.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076493/journal/raiden_nm6vie.png",
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076661/journal/raiden2_vga3rk.png"
+         
+      ],
+      "inStock": 7,
+      "price": 18,
+      "sizes": "3.5-inches",
+      "slug": "raiden",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "raiden",
+      "title": "RAIDEN",
+      "company": "MORTAL KOMBAT"
+  },
+  {
+      "description": "Sub-Zero, once known as Bi-Han, is a Cryomancer in service as an assassin of the Lin Kuei clan. He serves at their command, his deadly training and cunning intelligence making him a ruthless opponent who cuts down those in his path with his ice attacks.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077335/journal/sub_zero_a8slgh.png"
+     
+         
+      ],
+      "inStock": 2,
+      "price": 180,
+      "sizes": "8.14-inches",
+      "slug": "sub_zero",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "subzero",
+      "title": "SUB-ZERO",
+      "company": "MORTAL KOMBAT"
+  },
+
+  {
+      "description": "Scorpion, renowned as the greatest warrior ever to live, was a ninja born of the Shirai Ryu clan. His death at the hands of rival assassin Bi-Han banished him to the Netherrealm, his soul trapped in eternal fire.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077390/journal/mortal_kombat_x_scorpion2_odjnar.png",
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674080349/journal/mortal_kombat_x_scorpion_mueg13.png"
+     
+      ],
+      "inStock": 1,
+      "price": 10,
+      "sizes": "8.14-inches",
+      "slug": "mortal_kombat_x_scorpion",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "subzero",
+      "title": "SCORPION",
+      "company": "MORTAL KOMBAT"
+  },
+  {
+      "description": "Fumikage is a short young man with the head of a black bird, possibly supposed to resemble that of a crow or a raven. He has a tan, yellowish beak which is slightly hooked down at the end, thin, red eyes with a small black pupil, one on each side of his head, and a red choker, which he rarely removes.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076486/journal/my_hero_academia_tokoyami_e8a8wl.png"
+         
+      ],
+      "inStock": 2,
+      "price": 10,
+      "sizes": "3.6-inches",
+      "slug": "my_hero_academia_tokoyami",
+      "type": "Anime",
+      "category":"anime",
+      "license": "tokoyami",
+      "title": "TOKOYAMI",
+      "company": "MY HERO ACADEMIA"
+  },
+  {
+      "description": "Eijiro is a muscular young man of average height and a rather impressive physique for his young age. He has red eyes that are pointed slightly inwards and a small scar just above his right eye, which Horikoshi admits he frequently forgets to draw.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076463/journal/my_hero_academia_kirishima_napqw6.png"
+     
+      ],
+      "inStock": 4,
+      "price": 120,
+      "sizes": "9.6-inches",
+      "slug": "my_hero_academia_kirishima",
+      "type": "Anime",
+      "category":"anime",
+      "license": "kirishima",
+      "title": "KIRISHIMA",
+      "company": "MY HERO ACADEMIA"
+  },
+  {
+      "description": "Even though Izuku was born Quirkless, he manages to catch the attention of the legendary hero All Might, due to his innate heroism and a strong sense of justice, and has since become his close pupil, as well as a student in Class 1-A at U.A. High School. ",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076453/journal/my_hero_academia_deku_sjlmk8.png"
+         
+      ],
+      "inStock": 80,
+      "price": 12,
+      "sizes": "4.2-inches",
+      "slug": "my_hero_academia_deku",
+      "type": "Anime",
+      "category":"anime",
+      "license": "deku",
+      "title": "DEKU",
+      "company": "MY HERO ACADEMIA"
+  },
+
+  
+  {
+      "description": "Was born  to an abusive father. After escaping to the circus Clint and his brother Barney were under the protection of the Swordsman.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077272/journal/hawkeye_in_team_suit_wocpp7.png"
+         
+      ],
+      "inStock": 80,
+      "price": 12,
+      "sizes": "4.2-inches",
+      "slug": "hawkeye_in_team_suit",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "hawkeye",
+      "title": "HAWKEYE IN TEAM SUIT",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Marc Spector grew up in a Jewish family as the son of a rabbi. As a young man, he served in the Marines and later became a mercenary. As first recounted in 1980’s Moon Knight #1, it was during his mercenary days that Marc and his partner Jean-Paul “Frenchie” Duchamp took a job with Raul Bushman to help recover an ancient tomb in Egypt. Bushman would kill Peter Alraune, the archaeologist helping with the recovery, to claim it for himself.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077371/journal/moon_knight_l9dmzl.png"
+         
+      ],
+      "inStock": 8,
+      "price": 102,
+      "sizes": "8.2-inches",
+      "slug": "moon_knight",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "moon knight",
+      "title": "MOON KNIGHT",
+      "company": "MARVEL"
+  },
+  {
+      "description": "Batman is a superhero published by DC Comics. Operating in Gotham City, he serves as its protector, using the symbol of a bat to strike fear into the hearts of criminals. Unlike other superheroes, Batman is often depicted to lack any superpowers, instead using lifelong training and equipment to fight crime. His secret identity is Bruce Wayne.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076967/journal/classic_batman_fdctro.png"
+         
+      ],
+      "inStock": 2,
+      "price": 150,
+      "sizes": "10.9-inches",
+      "slug": "classic_batman",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "batman",
+      "title": "CLASSIC BATMAN",
+      "company": "DC"
+  },
+  {
+      "description": " Miles originally wore a red and blue Spider-Suit like Peter's, before being told it was in poor taste. Nick Fury gifts the young hero a black and red suit, cementing his role as the new Spider-Man.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077236/journal/miles_morales_reqvzp.png"
+         
+      ],
+      "inStock": 20,
+      "price": 15,
+      "sizes": "13.9-inches",
+      "slug": "miles_morales",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "miles morales",
+      "title": "MILES MORALES",
+      "company": "MARVEL"
+  },
+  {
+      "description": "After a sabotaged experiment leaves him with super strength and unbreakable skin, Luke Cage becomes a fugitive trying to rebuild his life in modern-day Harlem, New York City. But he is soon pulled out of the shadows and must fight a battle for the heart of his city--forcing him to confront a past he had tried to bury.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077158/journal/luke_cage_xc5wqk.png"
+         
+      ],
+      "inStock": 20,
+      "price": 15,
+      "sizes": "10.9-inches",
+      "slug": "luke_cage",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "luke cage",
+      "title": "LUKE CAGE",
+      "company": "MARVEL"
+  },
+
+  {
+      "description": "Richard Dick Grayson, most commonly known as Robin, is the former protégé of Batman, as well as the leader of the Teen Titans, and one of the five main protagonists of Teen Titans Go!.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077287/journal/all_teen_titans_go_robin_vsdixo.png"
+         
+      ],
+      "inStock": 13,
+      "price": 14,
+      "sizes": "12.7-inches",
+      "slug": "all_teen_titans_go_robin",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "robin",
+      "title": "ROBIN TEEN TITANS",
+      "company": "DC"
+  },
+
+  
+  {
+      "description": "Raven is a member of the Teen Titans and one of the five main protagonists of Teen Titans Go!. Her demonic-inherited powers from her father, Trigon, are a significant asset to the team, but when not in combat, she generally prefers to keep to herself.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076765/journal/all_teen_titans_go_raven_tyl6ce.png"
+         
+      ],
+      "inStock": 2,
+      "price": 14,
+      "sizes": "2.9-inches",
+      "slug": "all_teen_titans_go_raven",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "raven",
+      "title": "RAVEN TEEN TITANS",
+      "company": "DC"
+  },
+  {
+      "description": "Princess Koriand'r, more commonly known as Starfire, is a member of the Teen Titans and one of the five main protagonists of Teen Titans Go!. Although this intergalactic princess has trouble adapting to Earth life, she makes up for it with her cute looks, good-natured demeanor, and devastating superpowers courtesy of her kind and experiments by the Psion scientists.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076825/journal/all_teen_titans_go_star_fire_upxkim.png"
+         
+      ],
+      "inStock": 13,
+      "price": 13,
+      "sizes": "12.9-inches",
+      "slug": "all_teen_titans_go_star_fire",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "starfire",
+      "title": "STARFIRE TEEN TITANS",
+      "company": "DC"
+  },
+  {
+      "description": "Is the older sister of Starfire, who also hails from planet Tamaran. She debuted in the second season premiere, Mr Butt but had no more lines until the fifth season. She is voiced by Hynden Walch, who also voices her sister.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077457/journal/all_teen_titans_go_black_fire_iufnnp.png"
+         
+      ],
+      "inStock": 5,
+      "price": 27,
+      "sizes": "12.9-inches",
+      "slug": "all_teen_titans_go_black_fire",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "blackfire",
+      "title": "BLACKFIRE TEEN TITANS",
+      "company": "DC"
+  },
+  {
+      "description": "Obi-Wan has closed his journals for now and looks ahead as night falls and the sandstorm that has sequestered him begins to clear. But he discovers something unexpected in the hazards of the Jundland Wastes…a squad of ambushed stormtroopers left to die.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674080716/journal/star_wars_obi_wan_kenobi_swneke.png"
+         
+      ],
+      "inStock": 14,
+      "price": 26,
+      "sizes": "11.12-inches",
+      "slug": "star_wars_obi_wan_kenobi",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "obi wan kenobi",
+      "title": "OBI WAN KENOBI",
+      "company": "STAR WARS"
+  },
+  {
+      "description": "The Darth title was more than just a symbol of power; it was a claim of supremacy. It was used by those Dark Lords who have sought to enforce their will on the other Masters. It was a challenge — a warning to bow down or be destroyed.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076987/journal/darth_vader_fytt1k.png"
+         
+      ],
+      "inStock": 10,
+      "price": 260,
+      "sizes": "3.9-inches",
+      "slug": "darth_vader",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "darth vader",
+      "title": "DARTH VADER",
+      "company": "STAR WARS"
+  },
+  {
+      "description": "Boba Fett is the main protagonist and the title character of Boba Fett: Open Seasons, being mainly portrayed as a villain in most Star Wars media. He is a feared Mandalorian bounty hunter during the Imperial Era and beyond.",
+      "images": [
+          ".https://res.cloudinary.com/dcqjalyga/image/upload/v1674076841/journal/boba_fett_pdllik.png"
+         
+      ],
+      "inStock": 0,
+      "price": 20,
+      "sizes": "12.14-inches",
+      "slug": "boba_fett",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "boba fett",
+      "title": "BOBA FETT",
+      "company": "STAR WARS"
+  },
+  {
+      "description": "Crash Bandicoot is the titular character and the main protagonist of the series of the same name. He is an Eastern barred bandicoot living in N. Sanity Island, who was captured and evolved by Dr. Neo Cortex.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674076862/journal/crash_bandicoot_jrfscy.png"
+         
+      ],
+      "inStock": 50,
+      "price": 200,
+      "sizes": "17.9-inches",
+      "slug": "crash_bandicoot",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "crash bandicoot",
+      "title": "CRASH BANDICOOT",
+      "company": "SONY"
+  },
+  {
+      "description": "The Joker is the archenemy of Batman | The Joker is an infamously extreme and formidable psychopathic crime lord from Gotham City, being at the very top of the city's criminal underworld, greatly feared by all other crime bosses and criminals, including his long time rival Roman Sionis.",
+      "images": [
+          "https://res.cloudinary.com/dcqjalyga/image/upload/v1674077117/journal/joker_suicide_squad_zr4jrp.png"
+         
+      ],
+      "inStock": 13,
+      "price": 22,
+      "sizes": "5.22-inches",
+      "slug": "joker_suicide_squad",
+      "type": "Heroes & Villains",
+      "category":"heroes-villians",
+      "license": "joker",
+      "title": "THE JOKER SUICIDE SQUAD",
+      "company": "DC"
+  }
+
+
+  
+ 
+]
 }

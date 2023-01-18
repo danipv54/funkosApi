@@ -4,7 +4,7 @@
   "description": "funko apis",
   "main": "index.js",
   "scripts": {
-    "test": "node server.js"
+    "start": "node server.js"
   },
   "author": "Daniel Patricio",
   "license": "ISC",
